@@ -1,0 +1,2 @@
+# yozenx
+YOZENX Aİ Platform
